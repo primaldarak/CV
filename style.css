@@ -204,3 +204,11 @@ h5 {
   margin: 0px;
   padding: 6px 0px 6px 0px;
 }
+
+a {
+  text-decoration: blink;
+}
+
+a:hover {
+  color: violet;
+}
